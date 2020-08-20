@@ -1,0 +1,14 @@
+.table{
+    border : 1px solid gray;
+   width : 20% !important;
+   margin : 50px auto !important;
+}
+
+.table td{
+    text-align: center;
+    border : 1px solid gray;
+}
+
+.table th{
+    font-weight: bold;
+}
